@@ -29,4 +29,4 @@ For more details, please visit my Note article:
 - Special thanks to Any Mod developers.
 
 > - [CommonLibSSE-NG](https://github.com/CharmedBaryon/CommonLibSSE-NG) を使用して作成されました。
-- すべてのMod開発者に感謝いたします。
+> - すべてのMod開発者に感謝いたします。
