@@ -15,6 +15,10 @@ Please check the "Releases" on the right side of this page to download the lates
 
 > このページの右側にある「Releases」から、最新のzipファイルをダウンロードしてください。
 
+Import the downloaded zip file into your mod manager, or place the contents of the zip file into the SkyrimVR Data folder.
+
+> ダウンロードしたZipを、MOD管理ツールで取り込むか、Zipファイルの中身をSkyrimVRのDataフォルダ内に配置してください。
+
 ## Details (詳細情報)
 For more details, please visit my Note article:
 
