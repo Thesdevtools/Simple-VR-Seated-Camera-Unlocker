@@ -24,4 +24,9 @@ For more details, please visit my Note article:
 
 > より詳しい情報は、私のNote記事をご覧ください:
 
-[ここにあなたのNote記事のURLを貼る]
+## Credits (クレジット)
+- Built using [CommonLibSSE-NG](https://github.com/CharmedBaryon/CommonLibSSE-NG)
+- Special thanks to Any Mod developers.
+
+> - [CommonLibSSE-NG](https://github.com/CharmedBaryon/CommonLibSSE-NG) を使用して作成されました。
+- すべてのMod開発者に感謝いたします。
