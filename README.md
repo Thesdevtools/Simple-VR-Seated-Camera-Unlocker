@@ -24,8 +24,7 @@ For more details, please visit my Note article:
 
 > より詳しい情報は、私のNote記事をご覧ください:
 
-https://note.com/thesdevtools/n/n217a47dffc5a#55cfd549-1b10-4185-9474-306b883de641
-
+https://note.com/thesdevtools/n/n217a47dffc5a
 ## Credits (クレジット)
 - Built using [CommonLibSSE-NG](https://github.com/CharmedBaryon/CommonLibSSE-NG)
 - Special thanks to Any Mod developers.
